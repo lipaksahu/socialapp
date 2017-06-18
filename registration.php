@@ -41,7 +41,7 @@
 	           </div>             
 	      </div>
 	      <div class="row">
-           	<div class="col-md-4 col-sm-4 col-lg-4">
+           	<div class="col-md-12">
            		<label for="gender">Gender</label>
               	<select class="form-control" name="gender">
 					<option>Please select</option>
